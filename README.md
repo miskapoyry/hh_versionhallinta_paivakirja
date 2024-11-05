@@ -1,6 +1,13 @@
 # git-oppimispaivakirja
 
-Tämä on kurssin oppimispäiväkirja. Laitan tähän kootusti jokaisen osan päiväkirjasta perään:
+## Repon tiedot
+
+__Miska Pöyry__
+
+__Git-versionhallinta - SOF011AS2A-3002__
+
+__Tämä on kurssin oppimispäiväkirja. Laitan tähän kootusti jokaisen osan päiväkirjasta perään:__
+
 
 # Oppimispäiväkirja: Paikallinen git
 
